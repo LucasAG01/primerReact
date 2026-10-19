@@ -34,6 +34,4 @@ if (props.isLoggedIn) {
   }
 
 ```
-
-
-
+FIN por hoy.
